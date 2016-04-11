@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 The ".git" comes out in the folder. I did this for creating a repository to save the versions, maybe. This time, I realize the difference between directory and repository. Directory can be directly seen, while repository cannot. It has been hided.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Haha! I pre-answered parts of this question at the last one! So about the staging area, it's a short-time version and can be changed easily. But in respository, we just can see the final versions inside. So staging area allows people to operate each version and submit it into the respository.
