@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The ".git" comes out in the folder. I did this for creating a repository to save the versions, maybe. This time, I realize the difference between directory and repository. Directory can be directly seen, while repository cannot. It has been hided.
