@@ -13,3 +13,7 @@ I can use "git diff --staged" to compare the version I'm fixing with the last ve
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Like I learned, branches can: 1, help me test the experimental features; 2, add some individual fuctions to make different versions to fit for different people; 3, not anoyying the main process.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams show the clear map of the branch structure, so that I can see every branch in every obvious linear route.
