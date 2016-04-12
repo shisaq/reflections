@@ -17,3 +17,7 @@ Like I learned, branches can: 1, help me test the experimental features; 2, add 
 How do the diagrams help you visualize the branch structure?
 
 Diagrams show the clear map of the branch structure, so that I can see every branch in every obvious linear route.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The latter one was merged into the before one. Because it's easier to understand in using diagram.
