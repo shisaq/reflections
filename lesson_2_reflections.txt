@@ -5,3 +5,11 @@ The ".git" comes out in the folder. I did this for creating a repository to save
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Haha! I pre-answered parts of this question at the last one! So about the staging area, it's a short-time version and can be changed easily. But in respository, we just can see the final versions inside. So staging area allows people to operate each version and submit it into the respository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can use "git diff --staged" to compare the version I'm fixing with the last version; using "git diff" to make sure which one do I need to keep or not.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Like I learned, branches can: 1, help me test the experimental features; 2, add some individual fuctions to make different versions to fit for different people; 3, not anoyying the main process.
