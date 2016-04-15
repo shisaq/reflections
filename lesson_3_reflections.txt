@@ -15,3 +15,7 @@ Branches: Creat a new version based on a stable version, but both of them can be
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 1. Keeping updating is a good habit to avoid ignore the latest update; 2. Help avoid the disturb of network; 3. Have more chances to test locally without affecting others.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+If I collaborated without using Git or Github, I would: 1, work with others together; 2, if I couldn't do that, I had to email EVERY request and try to make others know if I'm right. Then wait to change, refresh the code, then done. Wow it sucks. Git and Github is amazing! I should study them harder in case I can avoid the troubles in future.
